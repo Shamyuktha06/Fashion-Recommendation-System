@@ -9,5 +9,5 @@ This is an AI-based fashion recommendation system that suggests suitable clothin
 - Recommend fashion styles based on similarity.
 - Web interface for seamless interaction.
 
-## 📁 Repository Structure
+
 
